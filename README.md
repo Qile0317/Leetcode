@@ -1,6 +1,4 @@
 ### My C++ leetcode solutions
-All files are named after the leetcode html tag followed by `.cpp`
+All files in `/Solutions` are named after the leetcode html tag followed by `.cpp`
 
-My leetcode account: https://leetcode.com/GTHB317/
-
-*(incomplete)*
+*(incomplete, many solutions haven't been uploaded yet)*
